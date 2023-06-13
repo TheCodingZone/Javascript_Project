@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+*{
+    color: aliceblue;
+}
+#addItemForm{
+    margin: 2px 400px;
+    width: 80%;
+}
+ .container h2{
+    color: rgb(240, 134, 48);
+    margin: 40px 380px;
+    margin-left: 250px;
+}
+#items{
+    background-color: rgb(240, 79, 141);
+   
+}
