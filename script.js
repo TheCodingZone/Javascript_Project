@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     const form = document.getElementById('addItemForm');
     const itemList = document.getElementById('itemList');
-    const baseUrl = 'https://crudcrud.com/api/c0c2e7ff13614b91b3e7b99f9190f33b/details';
+    const baseUrl = 'https://crudcrud.com/api/7523b44005d648868ac29f35f37fd076/details';
   
     // Fetch all items on page load
     fetchItems();
